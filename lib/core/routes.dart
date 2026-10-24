@@ -1,0 +1,53 @@
+enum AppRoute {
+  home('Home'),
+  album('Ember'),
+  singles('New release'),
+  albums('New release'),
+  chart('Chart'),
+  recommendations('Recommendations'),
+  menu('Menu'),
+  aura('Aura'),
+  auraConversation('Aura'),
+  profile('Profile'),
+  subscription('Membership'),
+  library('My music'),
+  radio('Radio'),
+  alternative('Alternative'),
+  player('Player'),
+  radioTuning('Alternative'),
+  hello('Hello'),
+  taste('What do you love?'),
+  songTaste('How about this song?'),
+  tasteResult('Complete!'),
+  onboard1('Millions of tracks'),
+  onboard2('Playlists for any mood'),
+  onboard3('New music every day'),
+  onboard4('Your music, everywhere'),
+  onboard5('High sound quality'),
+  welcome('Welcome'),
+  login('Login'),
+  settings('Settings'),
+  artist('Breaking Benjamin'),
+  equalizer('Equalizer'),
+  search('Search'),
+  lyrics('Lyrics'),
+  karaoke('Sing along'),
+  identify('Identify'),
+  events('Events'),
+  listening('Identify'),
+  venue('Imagine Dragons'),
+  seats('Imagine Dragons'),
+  event('Imagine Dragons'),
+  identified('Identify'),
+  genres('Music of all genres'),
+  rock('Rock'),
+  genreList('List of genres'),
+  payment('Payment'),
+  ticket('Your ticket');
+
+  const AppRoute(this.title);
+  final String title;
+  String get path => '/$name';
+  static AppRoute fromPath(String? path) =>
+      values.firstWhere((route) => route.path == path, orElse: () => home);
+}

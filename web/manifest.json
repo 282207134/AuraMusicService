@@ -1,0 +1,19 @@
+{
+  "name": "Aura Music",
+  "short_name": "Aura",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#12d2cc",
+  "description": "Find your sound. A local music experience.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "aura.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "document": "Music servis_dark",
+  "page": "xd page",
+  "pageId": "0:5155",
+  "frames": [
+    {
+      "id": "0:5158",
+      "name": "Album",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2172,
+        "y": -1355,
+        "width": 375,
+        "height": 1704
+      },
+      "parentId": "0:5155",
+      "childCount": 14
+    },
+    {
+      "id": "0:5279",
+      "name": "Home – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1727,
+        "y": -1355,
+        "width": 375,
+        "height": 3220
+      },
+      "parentId": "0:5155",
+      "childCount": 15
+    },
+    {
+      "id": "0:5684",
+      "name": "new single",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3062,
+        "y": -1355,
+        "width": 375,
+        "height": 1033
+      },
+      "parentId": "0:5155",
+      "childCount": 13
+    },
+    {
+      "id": "0:5789",
+      "name": "new album",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3507,
+        "y": -1355,
+        "width": 375,
+        "height": 1033
+      },
+      "parentId": "0:5155",
+      "childCount": 11
+    },
+    {
+      "id": "0:5858",
+      "name": "Chart",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4397,
+        "y": -1355,
+        "width": 375,
+        "height": 1187
+      },
+      "parentId": "0:5155",
+      "childCount": 16
+    },
+    {
+      "id": "0:6052",
+      "name": "Recommendations",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3952,
+        "y": -1355,
+        "width": 375,
+        "height": 2681
+      },
+      "parentId": "0:5155",
+      "childCount": 11
+    },
+    {
+      "id": "0:6335",
+      "name": "Menu",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14183,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 18
+    },
+    {
+      "id": "0:6393",
+      "name": "Aura1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14628,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 7
+    },
+    {
+      "id": "0:6497",
+      "name": "Aura2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15073,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 20
+    },
+    {
+      "id": "0:6626",
+      "name": "profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15518,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 15
+    },
+    {
+      "id": "0:6678",
+      "name": "profile – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15963,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 6
+    },
+    {
+      "id": "0:6744",
+      "name": "My music",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10623,
+        "y": -1355,
+        "width": 375,
+        "height": 1124
+      },
+      "parentId": "0:5155",
+      "childCount": 9
+    },
+    {
+      "id": "0:6884",
+      "name": "Radio",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4842,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 10
+    },
+    {
+      "id": "0:6960",
+      "name": "Alternative",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5287,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 13
+    },
+    {
+      "id": "0:7067",
+      "name": "Player",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11068,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 20
+    },
+    {
+      "id": "0:7188",
+      "name": "Alternative",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5732,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 9
+    },
+    {
+      "id": "0:7275",
+      "name": "Hello",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4842,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 6
+    },
+    {
+      "id": "0:7315",
+      "name": "What do you love?",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5287,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 6
+    },
+    {
+      "id": "0:7383",
+      "name": "What do you love? – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5732,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 13
+    },
+    {
+      "id": "0:7464",
+      "name": "What do you love? – 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6177,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 8
+    },
+    {
+      "id": "0:7504",
+      "name": "Onbord1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1727,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 8
+    },
+    {
+      "id": "0:7550",
+      "name": "Onbord2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2172,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 8
+    },
+    {
+      "id": "0:7596",
+      "name": "Onbord3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2617,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:7641",
+      "name": "Onbord4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3062,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:7686",
+      "name": "Welcome",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3952,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:7755",
+      "name": "Onbord5",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3507,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:7800",
+      "name": "Login",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4397,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:7867",
+      "name": "Settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16408,
+        "y": -1355,
+        "width": 375,
+        "height": 888
+      },
+      "parentId": "0:5155",
+      "childCount": 13
+    },
+    {
+      "id": "0:7938",
+      "name": "Artist",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2617,
+        "y": -1355,
+        "width": 375,
+        "height": 1522
+      },
+      "parentId": "0:5155",
+      "childCount": 18
+    },
+    {
+      "id": "0:8100",
+      "name": "Equalizer",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10178,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:8396",
+      "name": "Search",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12403,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 6
+    },
+    {
+      "id": "0:8479",
+      "name": "Lyrics-1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11513,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 9
+    },
+    {
+      "id": "0:8584",
+      "name": "Lyrics-2 – karaoke",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11958,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 9
+    },
+    {
+      "id": "0:8696",
+      "name": "Identify",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12848,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 6
+    },
+    {
+      "id": "0:8745",
+      "name": "Events",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7512,
+        "y": -1355,
+        "width": 375,
+        "height": 1714
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:8883",
+      "name": "Identify – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13293,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 6
+    },
+    {
+      "id": "0:8932",
+      "name": "zone",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8398,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 7
+    },
+    {
+      "id": "0:9175",
+      "name": "zone – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8843,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 8
+    },
+    {
+      "id": "0:9420",
+      "name": "Imagine Dragons",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7955,
+        "y": -1355,
+        "width": 375,
+        "height": 1133
+      },
+      "parentId": "0:5155",
+      "childCount": 11
+    },
+    {
+      "id": "0:9532",
+      "name": "Identify – 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13738,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 10
+    },
+    {
+      "id": "0:9591",
+      "name": "Genres",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6177,
+        "y": -1355,
+        "width": 375,
+        "height": 1659
+      },
+      "parentId": "0:5155",
+      "childCount": 9
+    },
+    {
+      "id": "0:9773",
+      "name": "Rock",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7067,
+        "y": -1355,
+        "width": 375,
+        "height": 2190
+      },
+      "parentId": "0:5155",
+      "childCount": 12
+    },
+    {
+      "id": "0:9978",
+      "name": "LIST OF GENRES",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6622,
+        "y": -1355,
+        "width": 375,
+        "height": 1012
+      },
+      "parentId": "0:5155",
+      "childCount": 26
+    },
+    {
+      "id": "0:10194",
+      "name": "Payment",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9288,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 16
+    },
+    {
+      "id": "0:10260",
+      "name": "Your ticket",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9733,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:5155",
+      "childCount": 7
+    }
+  ],
+  "tokens": {
+    "background": "#191919",
+    "surface": "#222222",
+    "raised": "#404040",
+    "foreground": "#FFFFFF",
+    "secondary": "#AAAAAA",
+    "discRim": "#404040",
+    "discHub": "#191919",
+    "gradient": [
+      "#1CE0DA",
+      "#479DE4"
+    ]
+  }
+}

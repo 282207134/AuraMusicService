@@ -1,0 +1,815 @@
+{
+  "document": "Music servise_light",
+  "page": "xd page",
+  "frames": [
+    {
+      "id": "0:5",
+      "name": "Album",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2172,
+        "y": -1355,
+        "width": 375,
+        "height": 1704
+      },
+      "parentId": "0:1",
+      "childCount": 14
+    },
+    {
+      "id": "0:126",
+      "name": "Home",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1727,
+        "y": -1355,
+        "width": 375,
+        "height": 3220
+      },
+      "parentId": "0:1",
+      "childCount": 15
+    },
+    {
+      "id": "0:531",
+      "name": "new single",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3062,
+        "y": -1355,
+        "width": 375,
+        "height": 1033
+      },
+      "parentId": "0:1",
+      "childCount": 13
+    },
+    {
+      "id": "0:636",
+      "name": "new album",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3507,
+        "y": -1355,
+        "width": 375,
+        "height": 1033
+      },
+      "parentId": "0:1",
+      "childCount": 11
+    },
+    {
+      "id": "0:705",
+      "name": "Chart",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4397,
+        "y": -1355,
+        "width": 375,
+        "height": 1187
+      },
+      "parentId": "0:1",
+      "childCount": 16
+    },
+    {
+      "id": "0:899",
+      "name": "Recommendations",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3952,
+        "y": -1355,
+        "width": 375,
+        "height": 2681
+      },
+      "parentId": "0:1",
+      "childCount": 11
+    },
+    {
+      "id": "0:1182",
+      "name": "Menu",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14183,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 19
+    },
+    {
+      "id": "0:1241",
+      "name": "Aura1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14628,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "0:1345",
+      "name": "Aura2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15073,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 20
+    },
+    {
+      "id": "0:1474",
+      "name": "profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15518,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 15
+    },
+    {
+      "id": "0:1526",
+      "name": "profile – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15963,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "0:1566",
+      "name": "My music",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10623,
+        "y": -1355,
+        "width": 375,
+        "height": 1124
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "0:1706",
+      "name": "Radio",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4842,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10
+    },
+    {
+      "id": "0:1782",
+      "name": "Alternative",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5287,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 13
+    },
+    {
+      "id": "0:1889",
+      "name": "Player",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11068,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 19
+    },
+    {
+      "id": "0:2009",
+      "name": "Alternative",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5732,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "0:2096",
+      "name": "Hello",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4842,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "0:2136",
+      "name": "What do you love?",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5287,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "0:2204",
+      "name": "What do you love? – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5732,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 13
+    },
+    {
+      "id": "0:2285",
+      "name": "What do you love? – 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6177,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "0:2325",
+      "name": "Onbord1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1727,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "0:2371",
+      "name": "Onbord2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2172,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "0:2417",
+      "name": "Onbord3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2617,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:2462",
+      "name": "Onbord4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3062,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:2507",
+      "name": "Onbord5",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3507,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:2552",
+      "name": "Welcome",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3952,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:2621",
+      "name": "Login",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4397,
+        "y": -2278,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:2688",
+      "name": "Settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16408,
+        "y": -1355,
+        "width": 375,
+        "height": 888
+      },
+      "parentId": "0:1",
+      "childCount": 13
+    },
+    {
+      "id": "0:2759",
+      "name": "Artist",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2617,
+        "y": -1355,
+        "width": 375,
+        "height": 1522
+      },
+      "parentId": "0:1",
+      "childCount": 31
+    },
+    {
+      "id": "0:2922",
+      "name": "Equalizer",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10178,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:3218",
+      "name": "Search",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12403,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "0:3301",
+      "name": "Lyrics-1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11513,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "0:3383",
+      "name": "Lyrics-2 – karaoke",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11958,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "0:3472",
+      "name": "Identify",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12848,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "0:3521",
+      "name": "Events",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7512,
+        "y": -1355,
+        "width": 375,
+        "height": 1714
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:3660",
+      "name": "Identify – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13293,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "0:3709",
+      "name": "zone",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8398,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "0:3952",
+      "name": "zone – 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8843,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "0:4197",
+      "name": "Imagine Dragons",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7955,
+        "y": -1335,
+        "width": 375,
+        "height": 1133
+      },
+      "parentId": "0:1",
+      "childCount": 11
+    },
+    {
+      "id": "0:4309",
+      "name": "Identify – 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13738,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10
+    },
+    {
+      "id": "0:4368",
+      "name": "Genres",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6177,
+        "y": -1355,
+        "width": 375,
+        "height": 1659
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "0:4550",
+      "name": "Rock",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7067,
+        "y": -1355,
+        "width": 375,
+        "height": 2190
+      },
+      "parentId": "0:1",
+      "childCount": 12
+    },
+    {
+      "id": "0:4755",
+      "name": "LIST OF GENRES",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6622,
+        "y": -1355,
+        "width": 375,
+        "height": 1012
+      },
+      "parentId": "0:1",
+      "childCount": 26
+    },
+    {
+      "id": "0:4971",
+      "name": "Payment",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9288,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 16
+    },
+    {
+      "id": "0:5037",
+      "name": "Your ticket",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9733,
+        "y": -1355,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    }
+  ],
+  "assets": [
+    {
+      "name": "band",
+      "nodeId": "0:477",
+      "exportWidth": 750,
+      "path": "assets/images/band.png"
+    },
+    {
+      "name": "event",
+      "nodeId": "0:3573",
+      "exportWidth": 750,
+      "path": "assets/images/event.png"
+    },
+    {
+      "name": "saint-asonia",
+      "nodeId": "0:1972",
+      "exportWidth": 500,
+      "path": "assets/images/saint-asonia.png"
+    },
+    {
+      "name": "ember",
+      "nodeId": "0:6",
+      "exportWidth": 750,
+      "path": "assets/images/ember.png"
+    },
+    {
+      "name": "rescue",
+      "nodeId": "0:434",
+      "exportWidth": 180,
+      "path": "assets/images/rescue.png"
+    },
+    {
+      "name": "carry",
+      "nodeId": "0:440",
+      "exportWidth": 180,
+      "path": "assets/images/carry.png"
+    },
+    {
+      "name": "westworld",
+      "nodeId": "0:446",
+      "exportWidth": 180,
+      "path": "assets/images/westworld.png"
+    },
+    {
+      "name": "backbone",
+      "nodeId": "0:452",
+      "exportWidth": 180,
+      "path": "assets/images/backbone.png"
+    },
+    {
+      "name": "numb",
+      "nodeId": "0:458",
+      "exportWidth": 180,
+      "path": "assets/images/numb.png"
+    },
+    {
+      "name": "drake",
+      "nodeId": "0:396",
+      "exportWidth": 180,
+      "path": "assets/images/drake.png"
+    },
+    {
+      "name": "psycho",
+      "nodeId": "0:402",
+      "exportWidth": 180,
+      "path": "assets/images/psycho.png"
+    },
+    {
+      "name": "camila",
+      "nodeId": "0:408",
+      "exportWidth": 180,
+      "path": "assets/images/camila.png"
+    },
+    {
+      "name": "mine",
+      "nodeId": "0:414",
+      "exportWidth": 180,
+      "path": "assets/images/mine.png"
+    },
+    {
+      "name": "powerglide",
+      "nodeId": "0:420",
+      "exportWidth": 180,
+      "path": "assets/images/powerglide.png"
+    },
+    {
+      "name": "just-rock",
+      "nodeId": "0:320",
+      "exportWidth": 400,
+      "path": "assets/images/just-rock.png"
+    },
+    {
+      "name": "hype",
+      "nodeId": "0:340",
+      "exportWidth": 400,
+      "path": "assets/images/hype.png"
+    },
+    {
+      "name": "alternative",
+      "nodeId": "0:350",
+      "exportWidth": 400,
+      "path": "assets/images/alternative.png"
+    },
+    {
+      "name": "rock",
+      "nodeId": "0:229",
+      "exportWidth": 500,
+      "path": "assets/images/rock.png"
+    },
+    {
+      "name": "soul",
+      "nodeId": "0:189",
+      "exportWidth": 400,
+      "path": "assets/images/soul.png"
+    },
+    {
+      "name": "relax",
+      "nodeId": "0:249",
+      "exportWidth": 400,
+      "path": "assets/images/relax.png"
+    },
+    {
+      "name": "rap",
+      "nodeId": "0:199",
+      "exportWidth": 400,
+      "path": "assets/images/rap.png"
+    },
+    {
+      "name": "spring",
+      "nodeId": "0:211",
+      "exportWidth": 400,
+      "path": "assets/images/spring.png"
+    },
+    {
+      "name": "classic",
+      "nodeId": "0:217",
+      "exportWidth": 400,
+      "path": "assets/images/classic.png"
+    },
+    {
+      "name": "genres",
+      "nodeId": "0:4378",
+      "exportWidth": 750,
+      "path": "assets/images/genres.png"
+    },
+    {
+      "name": "artist",
+      "nodeId": "0:2791",
+      "exportWidth": 750,
+      "path": "assets/images/artist.png"
+    },
+    {
+      "name": "album-one",
+      "nodeId": "0:4474",
+      "exportWidth": 400,
+      "path": "assets/images/album-one.png"
+    },
+    {
+      "name": "album-two",
+      "nodeId": "0:4479",
+      "exportWidth": 400,
+      "path": "assets/images/album-two.png"
+    },
+    {
+      "name": "album-three",
+      "nodeId": "0:4468",
+      "exportWidth": 400,
+      "path": "assets/images/album-three.png"
+    },
+    {
+      "name": "radio",
+      "nodeId": "0:1754",
+      "exportWidth": 630,
+      "path": "assets/images/radio.png"
+    },
+    {
+      "name": "avatar",
+      "nodeId": "0:1475",
+      "exportWidth": 375,
+      "path": "assets/images/avatar.png"
+    },
+    {
+      "name": "onboard-1",
+      "nodeId": "0:2335",
+      "exportWidth": 900,
+      "path": "assets/images/onboard-1.png"
+    },
+    {
+      "name": "onboard-2",
+      "nodeId": "0:2381",
+      "exportWidth": 588,
+      "path": "assets/images/onboard-2.png"
+    },
+    {
+      "name": "onboard-3",
+      "nodeId": "0:2431",
+      "exportWidth": 900,
+      "path": "assets/images/onboard-3.png"
+    },
+    {
+      "name": "onboard-4",
+      "nodeId": "0:2476",
+      "exportWidth": 900,
+      "path": "assets/images/onboard-4.png"
+    },
+    {
+      "name": "onboard-5",
+      "nodeId": "0:2521",
+      "exportWidth": 900,
+      "path": "assets/images/onboard-5.png"
+    },
+    {
+      "name": "portrait",
+      "nodeId": "0:1492",
+      "exportWidth": 300,
+      "path": "assets/images/portrait.png"
+    },
+    {
+      "name": "taste-song",
+      "nodeId": "0:2245",
+      "exportWidth": 500,
+      "path": "assets/images/taste-song.png"
+    }
+  ]
+}
